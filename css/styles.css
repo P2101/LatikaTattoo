@@ -145,3 +145,13 @@ img.enlarged:hover {
     height: 350px;
     margin-top: 20px;
 }
+#map {
+	height: 500px;
+	width: 30%;
+}
+
+@media screen and (max-width: 600px) {
+    p {
+        font-size: 14px;
+    }
+}
