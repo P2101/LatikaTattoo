@@ -163,8 +163,8 @@ img.enlarged:hover {
 	width: 550px;
 }
 
-@media screen and (max-width: 600px) {
-    p {
-        font-size: 14px;
+@media (max-width: 767px) {
+    main {
+        display: block; /* Cambia la disposición a bloque en pantallas pequeñas */
     }
 }
