@@ -14,6 +14,7 @@
 h1{
     text-align: center;
     text-transform: uppercase;
+    font-size: 70px;
 }
 h3{
     text-align: center;
@@ -102,7 +103,7 @@ footer ul li a:hover{
     width: 90%;
 }
 .data{
-    margin-top: 70px;
+    margin-top: 110px;
     width: 30%;
     font-size: 25px;
     display: inline-block;
@@ -153,17 +154,15 @@ img.enlarged:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 90%;
     margin: 35px;
-
 }
 
 #map {
-	height: 550px;
-	width: 550px;
+	height: 520px;
+	width: 520px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 700px) {
     main {
         display: block; /* Cambia la disposición a bloque en pantallas pequeñas */
     }
