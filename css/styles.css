@@ -165,11 +165,13 @@ img.enlarged:hover {
 @media (max-width: 768px) {
     .about {
       flex-direction: column;
+      justify-content: center;
     }
   
     .data, .about-content {
       width: 100%;
       text-align: center;
+      justify-content: center;
     }
     .info, .top{
         display: block;
