@@ -178,5 +178,11 @@ img.enlarged:hover {
         justify-content: center;
         text-align: center;
     }
-
+    .luiggi{
+        width: 300px;
+        height: 300px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
   }
